@@ -1,0 +1,15 @@
+@startuml
+
+class LaneIntersectionConnection {
+	- sourceRegion
+	- sourceIntersection
+	- sourceLane
+	- destRegion
+	- destIntersection
+	- destLane
+	+ signalGroup
+	+ userClass
+	+ connectionID
+}
+
+@enduml

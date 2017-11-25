@@ -1,0 +1,15 @@
+@startuml
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/intersectionleg.puml
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/geoposition.puml
+
+class IntersectionGeometry {
+	- regionIdentifier
+	- identifier
+	+ descriptiveName
+}
+
+IntersectionGeometry *--> "2..* legs" IntersectionLeg
+IntersectionGeometry --> "1 refPoint" GeoPosition
+
+@enduml

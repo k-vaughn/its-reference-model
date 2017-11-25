@@ -1,0 +1,21 @@
+@startuml
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/lanenode.puml
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/regulatoryspeed.puml
+
+class LaneSegment {
+	- identifier
+	+ attributes[]
+	+ endPointAngle
+	+ crownPointCentre
+	+ crownPointLeft
+	+ crownPointRight
+	+ laneAngle
+	+ width
+	+ elevation
+}
+
+LaneSegment *--> "2..* nodes" LaneNode
+LaneSegment --> "1..* speedLimits" RegulatorySpeedLimit
+
+@enduml

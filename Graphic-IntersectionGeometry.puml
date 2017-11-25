@@ -1,0 +1,6 @@
+@startuml
+title Derived Reference Model from SAE J2735
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/intersectiongeometry.puml
+
+@enduml

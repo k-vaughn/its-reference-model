@@ -1,0 +1,9 @@
+@startuml
+
+class GeoPosition {
+	~ latitude
+	~ longitude
+	+ elevation
+}
+
+@enduml

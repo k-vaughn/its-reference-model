@@ -1,0 +1,19 @@
+@startuml
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/lanesegment.puml
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/laneintersectionConnection.puml
+
+class GenericLane {
+	- identifier
+	+ descriptiveName
+	~ directionalUse
+	~ sharedWith
+	~ typeAttributes
+	+ allowedManeuvers
+	+ overlayLaneList[]
+}
+
+GenericLane *--> "1..* segments" LaneSegment
+GenericLane --> "1..* connections" LaneIntersectionConnection
+
+@enduml

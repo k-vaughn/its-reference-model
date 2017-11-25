@@ -1,0 +1,11 @@
+@startuml
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/genericlane.puml
+
+class IntersectionLeg {
+	- identifier
+}
+
+IntersectionLeg *--> "1..* lanes" GenericLane
+
+@enduml
