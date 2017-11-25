@@ -4,7 +4,7 @@
 !includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/laneintersectionConnection.puml
 
 class GenericLane {
-	- <a href="https://www.trevilon.com">identifier</a>
+	- identifier
 	+ descriptiveName
 	~ directionalUse
 	~ sharedWith
