@@ -1,3 +1,10 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   NOTE  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Any time this file is changed, you must paste its contents into 
+http://www.plantuml.com/plantuml/ and generate a new URL to be pasted
+into index.html
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   NOTE  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 @startuml
 title The following model is compatible with SAE J2735
 
