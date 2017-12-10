@@ -2,7 +2,7 @@
 
 class RegulatorySpeedLimit {
 	~ type
-	~ speed
+	~ speed [[https://cidcr.trevilon.com/data/view/1981 {definition}]]
 }
 
 @enduml
