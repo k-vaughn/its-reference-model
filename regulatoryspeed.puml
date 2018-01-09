@@ -1,8 +1,8 @@
 @startuml
 
 class RegulatorySpeedLimit {
-	~ type
-	~ speed [[https://cidcr.trevilon.com/data/view/1981 {definition}]]
+	type
+	speed
 }
 
 @enduml

@@ -4,16 +4,16 @@
 !includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/laneintersectionConnection.puml
 
 class GenericLane {
-	- identifier
-	+ descriptiveName
-	~ directionalUse
-	~ sharedWith
-	~ typeAttributes
-	+ allowedManeuvers
-	+ overlayLaneList[]
+	identifier
+	descriptiveName [0..1]
+	directionalUse
+	sharedWith
+	typeAttributes
+	allowedManeuvers [0..1]
+	overlayLaneList[0..5]
 }
 
-GenericLane *--> "1..* segments" LaneSegment
-GenericLane --> "1..* connections" LaneIntersectionConnection
+GenericLane *--> "1..62 segments" LaneSegment
+GenericLane --> "1..16 connections" LaneIntersectionConnection
 
 @enduml

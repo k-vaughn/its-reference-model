@@ -11,10 +11,10 @@ class IntersectionGeometry {
 	/defaultLaneWidth [0..1]
 }
 
-IntersectionGeometry *--> "2..* legs" IntersectionLeg
+IntersectionGeometry *--> "2..15 legs" IntersectionLeg
 IntersectionGeometry --> "1 refPoint" GeoPosition
-IntersectionGeometry *--> "1..* /defaultSpeedLimits" RegulatorySpeedLimit
-IntersectionGeometry *--> "1..* preemptPriorityData" SignalControlZone
-IntersectionGeometry --> "0..* regional" RegionalExtension
+IntersectionGeometry *--> "1..9 /defaultSpeedLimits" RegulatorySpeedLimit
+IntersectionGeometry *--> "0..32 preemptPriorityData" SignalControlZone
+IntersectionGeometry --> "0..4 regional" RegionalExtension
 
 @enduml
