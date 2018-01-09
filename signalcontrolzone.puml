@@ -6,6 +6,6 @@
 class SignalControlZone {
 }
 
-SignalControlZone *--> "0..4 zone" RegionalExtension
+SignalControlZone --> "0..4 zone" RegionalExtension
 
 @enduml
