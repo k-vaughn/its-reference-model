@@ -15,6 +15,7 @@ IntersectionGeometry *--> "2..15 legs" IntersectionLeg
 IntersectionGeometry --> "1 refPoint" GeoPosition
 IntersectionGeometry *--> "1..9 /defaultSpeedLimits" RegulatorySpeedLimit
 IntersectionGeometry *--> "0..32 preemptPriorityData" SignalControlZone
-IntersectionGeometry --> "0..4 regional" RegionalExtension
+
+note "A RegionalExtension may be added to any structure"
 
 @enduml
