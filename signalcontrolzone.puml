@@ -1,0 +1,11 @@
+
+@startuml
+
+!includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/regionalextension.puml
+
+class SignalControlZone {
+}
+
+SignalControlZone *--> "1 zone" RegionalExtension
+
+@enduml
