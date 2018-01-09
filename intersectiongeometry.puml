@@ -3,12 +3,16 @@
 !includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/intersectionleg.puml
 
 class IntersectionGeometry {
-	- regionIdentifier
-	- identifier
-	+ descriptiveName
+	descriptiveName [0..1]
+	regionIdentifier [0..1]
+	identifier
+	revision
+	/defaultLaneWidth [0..1]
 }
 
 IntersectionGeometry *--> "2..* legs" IntersectionLeg
 IntersectionGeometry --> "1 refPoint" GeoPosition
+IntersectionGeometry *--> "1..* /defaultSpeedLimits" RegulatorySpeedLimit
+IntersectionGeometry *--> "1..* /preemptPriorityData" SignalControlZone
 
 @enduml
