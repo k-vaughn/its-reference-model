@@ -16,6 +16,6 @@ IntersectionGeometry --> "1 refPoint" GeoPosition
 IntersectionGeometry *--> "1..9 /defaultSpeedLimits" RegulatorySpeedLimit
 IntersectionGeometry *--> "0..32 preemptPriorityData" SignalControlZone
 
-note "A RegionalExtension may be added to any structure"
+note "A RegionalExtension may be added to any structure." As N1
 
 @enduml
