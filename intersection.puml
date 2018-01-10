@@ -3,7 +3,7 @@
 !includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/intersectionleg.puml
 !includeurl https://raw.githubusercontent.com/k-vaughn/its-reference-model/master/signalcontrolzone.puml
 
-class IntersectionGeometry {
+class Intersection {
 	descriptiveName [0..1]
 	regionIdentifier [0..1]
 	identifier
@@ -12,10 +12,10 @@ class IntersectionGeometry {
 	/defaultLaneWidth [0..1]
 }
 
-IntersectionGeometry *--> "2..15 legs" IntersectionLeg
-IntersectionGeometry --> "1 refPoint" GeoPosition
-IntersectionGeometry *--> "1..9 /defaultSpeedLimits" RegulatorySpeedLimit
-IntersectionGeometry *--> "0..32 preemptPriorityData" SignalControlZone
+Intersection *--> "2..15 legs" IntersectionLeg
+Intersection --> "1 refPoint" GeoPosition
+Intersection *--> "1..9 /defaultSpeedLimits" RegulatorySpeedLimit
+Intersection *--> "0..32 preemptPriorityData" SignalControlZone
 
 note "A RegionalExtension may be added to any structure." As N1
 
