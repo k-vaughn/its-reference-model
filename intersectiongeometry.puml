@@ -7,6 +7,7 @@ class IntersectionGeometry {
 	descriptiveName [0..1]
 	regionIdentifier [0..1]
 	identifier
+	/referenceIdentifier --regionID and id
 	revision
 	/defaultLaneWidth [0..1]
 }
