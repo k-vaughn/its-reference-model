@@ -1,6 +1,0 @@
-@startuml
-
-abstract class RegionalExtension {
-}
-
-@enduml
