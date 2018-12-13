@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.3.2:1", "", "VehicleSensors", "EARoot/EA3/EA2/EA41.htm", "175.png", "16", "0", "", "Logical diagram0","{327BEC11-ED18-4e46-81F5-E6A473EF47BD}");
+tocTab[tocTab.length] = new Array("0.3.2:2", "", "BrakeSystem", "EARoot/EA3/EA2/EA44.htm", "5.png", "E134", "0", "", "Class0","{41EDF299-2F22-4edf-9C53-42DAE6075044}");
+tocTab[tocTab.length] = new Array("0.3.2:3", "", "Humidity", "EARoot/EA3/EA2/EA45.htm", "5.png", "E154", "0", "", "Class0","{F69CA726-C9FB-4cbf-9DD2-7FB2ABCD99A3}");
+tocTab[tocTab.length] = new Array("0.3.2:4", "", "Illumination", "EARoot/EA3/EA2/EA46.htm", "5.png", "E129", "0", "", "Class0","{3F817428-CFD4-401d-9D47-2C81E8A0F162}");
+tocTab[tocTab.length] = new Array("0.3.2:5", "", "PhysicalEntity", "EARoot/EA3/EA2/EA47.htm", "5.png", "E130", "0", "", "Class0","{A5096636-D88A-4dd1-862D-62EBCF3D5A88}");
+tocTab[tocTab.length] = new Array("0.3.2:6", "", "Precipitation", "EARoot/EA3/EA2/EA48.htm", "5.png", "E127", "0", "", "Class0","{36D81827-D3F6-4bcf-9E5F-80BC2C0DBF53}");
+tocTab[tocTab.length] = new Array("0.3.2:7", "", "Pressure", "EARoot/EA3/EA2/EA49.htm", "5.png", "E125", "0", "", "Class0","{ED104EFD-59EC-416e-BB62-E7A453BFAA76}");
+tocTab[tocTab.length] = new Array("0.3.2:8", "", "RoadFriction", "EARoot/EA3/EA2/EA50.htm", "5.png", "E128", "0", "", "Class0","{B74BECA4-604A-4fa6-913D-5AB36FD29DB1}");
+tocTab[tocTab.length] = new Array("0.3.2:9", "", "SensedValue", "EARoot/EA3/EA2/EA51.htm", "5.png", "E118", "0", "", "Class0","{C5C395A5-7D87-4f5b-84BB-92BABD6768CA}");
+tocTab[tocTab.length] = new Array("0.3.2:10", "", "«enumeration» SensorType", "EARoot/EA3/EA2/EA52.htm", "5.png", "E155", "0", "", "Class0","{88F53E3B-FC20-426d-9825-5782AAE5B337}");
+tocTab[tocTab.length] = new Array("0.3.2:11", "", "SolarRadiation", "EARoot/EA3/EA2/EA53.htm", "5.png", "E131", "0", "", "Class0","{04EECFB1-4FE9-4551-99E7-7E0DF3B47F33}");
+tocTab[tocTab.length] = new Array("0.3.2:12", "", "Temperature", "EARoot/EA3/EA2/EA54.htm", "5.png", "E126", "0", "", "Class0","{A7317098-141B-44af-9892-85D12F118FF7}");
+tocTab[tocTab.length] = new Array("0.3.2:13", "", "Vector", "EARoot/EA3/EA2/EA55.htm", "5.png", "E123", "0", "", "Class0","{328F5034-14F1-40e9-8670-AD8D1855C8E6}");
+tocTab[tocTab.length] = new Array("0.3.2:14", "", "VectorConfidence", "EARoot/EA3/EA2/EA56.htm", "5.png", "E124", "0", "", "Class0","{2A3DE6EF-1BA4-46e0-BAC9-DEF521FA22ED}");
+tocTab[tocTab.length] = new Array("0.3.2:15", "", "VehicleSnapshot", "EARoot/EA3/EA2/EA57.htm", "5.png", "E133", "0", "", "Class0","{851A141E-5F1C-4004-8E75-9448E2AC9497}");
+tocTab[tocTab.length] = new Array("0.3.2:16", "", "Wiper", "EARoot/EA3/EA2/EA58.htm", "5.png", "E132", "0", "", "Class0","{70EFC8A5-E8BD-4103-8DDF-793D729B6434}");
