@@ -1,4 +1,3 @@
-tocTab[tocTab.length] = new Array("0.3.1:1", "", "Location", "EARoot/EA3/EA1/EA35.htm", "175.png", "17", "0", "", "Logical diagram0","{37A16161-4C1B-400e-964C-5D98B05C5E06}");
-tocTab[tocTab.length] = new Array("0.3.1:2", "", "GeoLocation", "EARoot/EA3/EA1/EA38.htm", "5.png", "E121", "0", "", "Class0","{7543FF86-3947-447d-82D3-425CF7853024}");
-tocTab[tocTab.length] = new Array("0.3.1:3", "", "Location", "EARoot/EA3/EA1/EA39.htm", "5.png", "E120", "0", "", "Class0","{27FB90A9-B371-4a2f-B13B-2324AB073A6C}");
-tocTab[tocTab.length] = new Array("0.3.1:4", "", "PositionalAccuracy", "EARoot/EA3/EA1/EA40.htm", "5.png", "E122", "0", "", "Class0","{E526DEA9-9830-4163-9120-724662C7212A}");
+tocTab[tocTab.length] = new Array("0.4.2:1", "", "Location", "EARoot/EA4/EA2/EA97.htm", "175.png", "17", "0", "", "Logical diagram0","{37A16161-4C1B-400e-964C-5D98B05C5E06}");
+tocTab[tocTab.length] = new Array("0.4.2:2", "", "ReportedLocation", "EARoot/EA4/EA2/EA100.htm", "5.png", "E120", "0", "", "Class0","{27FB90A9-B371-4a2f-B13B-2324AB073A6C}");
+tocTab[tocTab.length] = new Array("0.4.2:3", "", "SensedGeoLocation", "EARoot/EA4/EA2/EA101.htm", "5.png", "E121", "0", "", "Class0","{7543FF86-3947-447d-82D3-425CF7853024}");

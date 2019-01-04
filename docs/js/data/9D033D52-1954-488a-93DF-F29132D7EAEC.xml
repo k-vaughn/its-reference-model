@@ -1,3 +1,8 @@
-tocTab[tocTab.length] = new Array("0.3.1", "1", "Location", "EARoot/EA3/EA1/EA37.htm", "4.png", "", "", "{BFD34FCB-6E25-4320-8C6A-3E61DD59FC61}", "Package");
-tocTab[tocTab.length] = new Array("0.3.2", "1", "Sensors", "EARoot/EA3/EA2/EA43.htm", "4.png", "", "", "{794076EE-5BC6-451c-9C8E-336E7730BBE8}", "Package");
-tocTab[tocTab.length] = new Array("0.3.3", "1", "Vehicles", "EARoot/EA3/EA3/EA61.htm", "4.png", "", "", "{0766EF8D-1726-4f22-90ED-FFD82EE71459}", "Package");
+tocTab[tocTab.length] = new Array("0.4:1", "", "Proposed ITS RDM", "EARoot/EA4/EA70.htm", "175.png", "30", "0", "", "Logical diagram0","{6D6E4B3C-E649-4406-B1C1-1F9AC992A4B9}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "Sensor", "EARoot/EA4/EA77.htm", "5.png", "E261", "0", "", "Class0","{8354AAB9-0A65-4ba9-B989-21E56C248056}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "WeatherStation", "EARoot/EA4/EA80.htm", "5.png", "E262", "0", "", "Class0","{B07AC3AB-CA11-480f-A638-092178B72C89}");
+tocTab[tocTab.length] = new Array("0.4.1", "1", "Architecture", "EARoot/EA4/EA1/EA83.htm", "4.png", "", "", "{F4C80DEB-54B2-406b-B5E5-D9A890E1BAAB}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "Location", "EARoot/EA4/EA2/EA99.htm", "4.png", "", "", "{BFD34FCB-6E25-4320-8C6A-3E61DD59FC61}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "Phenomenom", "EARoot/EA4/EA3/EA104.htm", "4.png", "", "", "{6BF2556F-0A37-4415-AFD4-5A638D4AE61B}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4", "1", "Sensors", "EARoot/EA4/EA4/EA119.htm", "4.png", "", "", "{794076EE-5BC6-451c-9C8E-336E7730BBE8}", "Package");
+tocTab[tocTab.length] = new Array("0.4.5", "1", "Vehicles", "EARoot/EA4/EA5/EA160.htm", "4.png", "", "", "{0766EF8D-1726-4f22-90ED-FFD82EE71459}", "Package");
