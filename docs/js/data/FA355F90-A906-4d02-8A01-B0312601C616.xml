@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.3.2:1", "", "NTCIP 1204", "EARoot/EA3/EA2/EA51.htm", "175.png", "33", "0", "", "Logical diagram0","{4D29F3A5-64D1-44c5-86EE-854D2307B69E}");
-tocTab[tocTab.length] = new Array("0.3.2:2", "", "EnvironmentalSensorStation", "EARoot/EA3/EA2/EA54.htm", "5.png", "E228", "0", "", "Class0","{68EBD0BA-72FB-46c2-AC4C-3C2B0CF67682}");
-tocTab[tocTab.length] = new Array("0.3.2:3", "", "PavementSensor", "EARoot/EA3/EA2/EA55.htm", "5.png", "E231", "0", "", "Class0","{16ACAEC6-6DA2-4e7c-B0A4-44F2D12699B4}");
-tocTab[tocTab.length] = new Array("0.3.2:4", "", "PrecipitationSensor", "EARoot/EA3/EA2/EA56.htm", "5.png", "E229", "0", "", "Class0","{B3249BCC-6286-4a35-B1F2-48F969A87864}");
-tocTab[tocTab.length] = new Array("0.3.2:5", "", "VisibilitySensor", "EARoot/EA3/EA2/EA57.htm", "5.png", "E230", "0", "", "Class0","{A8949578-DB58-4737-8760-63CEAA08FADD}");
+tocTab[tocTab.length] = new Array("0.3.2:1", "", "NTCIP 1204", "EARoot/EA3/EA2/EA47.htm", "175.png", "33", "0", "", "Logical diagram0","{4D29F3A5-64D1-44c5-86EE-854D2307B69E}");
+tocTab[tocTab.length] = new Array("0.3.2:2", "", "EnvironmentalSensorStation", "EARoot/EA3/EA2/EA50.htm", "5.png", "E228", "0", "", "Class0","{68EBD0BA-72FB-46c2-AC4C-3C2B0CF67682}");
+tocTab[tocTab.length] = new Array("0.3.2:3", "", "PavementSensor", "EARoot/EA3/EA2/EA51.htm", "5.png", "E231", "0", "", "Class0","{16ACAEC6-6DA2-4e7c-B0A4-44F2D12699B4}");
+tocTab[tocTab.length] = new Array("0.3.2:4", "", "PrecipitationSensor", "EARoot/EA3/EA2/EA52.htm", "5.png", "E229", "0", "", "Class0","{B3249BCC-6286-4a35-B1F2-48F969A87864}");
+tocTab[tocTab.length] = new Array("0.3.2:5", "", "VisibilitySensor", "EARoot/EA3/EA2/EA53.htm", "5.png", "E230", "0", "", "Class0","{A8949578-DB58-4737-8760-63CEAA08FADD}");

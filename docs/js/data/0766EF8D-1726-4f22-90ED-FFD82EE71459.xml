@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.4.5:1", "", "Vehicles", "EARoot/EA4/EA5/EA158.htm", "175.png", "15", "0", "", "Logical diagram0","{44BA1A74-1D08-4563-8462-65D644D0F669}");
-tocTab[tocTab.length] = new Array("0.4.5:2", "", "Entity", "EARoot/EA4/EA5/EA161.htm", "5.png", "E197", "0", "", "Class0","{B352BD73-046A-4e68-83E8-393B85396310}");
-tocTab[tocTab.length] = new Array("0.4.5:3", "", "MotorVehicle", "EARoot/EA4/EA5/EA162.htm", "5.png", "E116", "0", "", "Class0","{23B1B8E2-52D7-4c8e-8AAD-8BDAF5B02571}");
-tocTab[tocTab.length] = new Array("0.4.5:4", "", "SelfPropelledVehicle", "EARoot/EA4/EA5/EA163.htm", "5.png", "E115", "0", "", "Class0","{AA855211-B2BB-4f65-98E0-CDC3846449F6}");
-tocTab[tocTab.length] = new Array("0.4.5:5", "", "Vehicle", "EARoot/EA4/EA5/EA164.htm", "5.png", "E114", "0", "", "Class0","{C20BBF6B-5D0B-415c-8BAD-A103F483A979}");
+tocTab[tocTab.length] = new Array("0.4.5:1", "", "Vehicles", "EARoot/EA4/EA5/EA180.htm", "175.png", "15", "0", "", "Logical diagram0","{44BA1A74-1D08-4563-8462-65D644D0F669}");
+tocTab[tocTab.length] = new Array("0.4.5:2", "", "Entity", "EARoot/EA4/EA5/EA183.htm", "5.png", "E197", "0", "", "Class0","{B352BD73-046A-4e68-83E8-393B85396310}");
+tocTab[tocTab.length] = new Array("0.4.5:3", "", "MotorVehicle", "EARoot/EA4/EA5/EA184.htm", "5.png", "E116", "0", "", "Class0","{23B1B8E2-52D7-4c8e-8AAD-8BDAF5B02571}");
+tocTab[tocTab.length] = new Array("0.4.5:4", "", "SelfPropelledVehicle", "EARoot/EA4/EA5/EA185.htm", "5.png", "E115", "0", "", "Class0","{AA855211-B2BB-4f65-98E0-CDC3846449F6}");
+tocTab[tocTab.length] = new Array("0.4.5:5", "", "Vehicle", "EARoot/EA4/EA5/EA186.htm", "5.png", "E114", "0", "", "Class0","{C20BBF6B-5D0B-415c-8BAD-A103F483A979}");
