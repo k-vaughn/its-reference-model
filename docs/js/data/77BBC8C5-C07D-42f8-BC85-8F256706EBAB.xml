@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.3.17.1:1", "", "Acceleration", "EARoot/EA3/EA17/EA1/EA141.htm", "5.png", "E499", "0", "", "Class0","{3D9D711A-5C9B-4e28-9CC6-6683712465A5}");
+tocTab[tocTab.length] = new Array("0.3.17.1:2", "", "Heading", "EARoot/EA3/EA17/EA1/EA142.htm", "5.png", "E447", "0", "", "Class0","{9042A563-C818-4789-9153-1EFB4FA6C9C4}");
+tocTab[tocTab.length] = new Array("0.3.17.1:3", "", "Speed", "EARoot/EA3/EA17/EA1/EA143.htm", "5.png", "E446", "0", "", "Class0","{1BB5DC59-B2BD-431a-A52A-016F23426C5B}");
+tocTab[tocTab.length] = new Array("0.3.17.1:4", "", "VehicleBrakePressure", "EARoot/EA3/EA17/EA1/EA144.htm", "5.png", "E390", "0", "", "Class0","{FEAC8503-5DD3-4ec2-A40C-F3BCBBA7FE50}");
+tocTab[tocTab.length] = new Array("0.3.17.1:5", "", "YawRate", "EARoot/EA3/EA17/EA1/EA145.htm", "5.png", "E500", "0", "", "Class0","{D7DA5C20-DAB8-4589-890C-7F40C58379CE}");

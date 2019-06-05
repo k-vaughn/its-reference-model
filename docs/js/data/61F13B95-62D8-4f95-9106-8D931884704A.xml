@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "Entity", "EARoot/EA3/EA3/EA67.htm", "5.png", "E197", "0", "", "Class0","{B352BD73-046A-4e68-83E8-393B85396310}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "«enumeration» ExtendedBoolean", "EARoot/EA3/EA3/EA68.htm", "5.png", "E526", "0", "", "Class0","{24416D4F-B920-4a18-9B73-0D77E56901B7}");
+tocTab[tocTab.length] = new Array("0.3.3:3", "", "PhysicalEntity", "EARoot/EA3/EA3/EA69.htm", "5.png", "E181", "0", "", "Class0","{E36B062A-B3DE-41f7-AEFE-2D7427F4660B}");
+tocTab[tocTab.length] = new Array("0.3.3:4", "", "PhysicalObject", "EARoot/EA3/EA3/EA70.htm", "5.png", "E195", "0", "", "Class0","{9586B34F-63A8-49c0-B2CC-1840BE818B6F}");
+tocTab[tocTab.length] = new Array("0.3.3:5", "", "«enumeration» SensedTypeEnum", "EARoot/EA3/EA3/EA71.htm", "5.png", "E155", "0", "", "Class0","{88F53E3B-FC20-426d-9825-5782AAE5B337}");
+tocTab[tocTab.length] = new Array("0.3.3:6", "", "SensedValue", "EARoot/EA3/EA3/EA72.htm", "5.png", "E118", "0", "", "Class0","{C5C395A5-7D87-4f5b-84BB-92BABD6768CA}");
+tocTab[tocTab.length] = new Array("0.3.3:7", "", "Sensor", "EARoot/EA3/EA3/EA73.htm", "5.png", "E130", "0", "", "Class0","{A5096636-D88A-4dd1-862D-62EBCF3D5A88}");

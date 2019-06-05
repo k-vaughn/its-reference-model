@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.5.3.3.3:1", "", "AccelerationSet4Way", "EARoot/EA5/EA3/EA3/EA3/EA375.htm", "175.png", "66", "0", "", "Logical diagram0","{350BDC25-D7F0-4c3d-B42A-AA4DA0D29042}");
+tocTab[tocTab.length] = new Array("0.5.3.3.3:2", "", "BrakeSystemStatus", "EARoot/EA5/EA3/EA3/EA3/EA377.htm", "175.png", "67", "0", "", "Logical diagram0","{2A47804B-27CF-4c29-83EF-512321BE8F11}");
+tocTab[tocTab.length] = new Array("0.5.3.3.3:3", "", "BSMcoreData", "EARoot/EA5/EA3/EA3/EA3/EA379.htm", "175.png", "53", "0", "", "Logical diagram0","{E49F67B0-1CDE-4147-B7C2-6A1321162531}");
+tocTab[tocTab.length] = new Array("0.5.3.3.3:4", "", "PositionalAccuracy", "EARoot/EA5/EA3/EA3/EA3/EA381.htm", "175.png", "69", "0", "", "Logical diagram0","{C891EDBB-81A3-433b-922E-24B8AD4EFDF5}");
+tocTab[tocTab.length] = new Array("0.5.3.3.3:5", "", "VehicleSize", "EARoot/EA5/EA3/EA3/EA3/EA383.htm", "175.png", "68", "0", "", "Logical diagram0","{7CA8E19F-A2A2-4f1e-9056-D595118C0034}");

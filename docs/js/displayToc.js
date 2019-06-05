@@ -85,6 +85,9 @@ function initItem(item)
 function initLoad(src, toc, home)
 {
 
+	var x = new Date(document.lastModified);
+	document.getElementById("docdate").innerHTML = x;
+	
 	var qs = document.location.search.substring(1);
 
 	if (qs.substring(0, qs.indexOf('=')) == 'goto')

@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.6:1", "", "AccelerationSet4Way", "EARoot/EA6/EA222.htm", "5.png", "E85", "0", "", "Class0","{7E9BDFE1-984F-42f9-83CB-9DD393953870}");
-tocTab[tocTab.length] = new Array("0.6:2", "", "BrakeSystemStatus", "EARoot/EA6/EA223.htm", "5.png", "E86", "0", "", "Class0","{EF7DF8DC-DCD2-4c86-9134-973F1C8325C4}");
-tocTab[tocTab.length] = new Array("0.6:3", "", "BSM", "EARoot/EA6/EA224.htm", "5.png", "E87", "0", "", "Class0","{CA32FDF3-996B-4bbd-A086-162E0FEFF0F1}");
-tocTab[tocTab.length] = new Array("0.6:4", "", "GeoLocation", "EARoot/EA6/EA225.htm", "5.png", "E84", "0", "", "Class0","{7AF0BB8E-C43F-4fe0-B567-1F30A6CC90AE}");
-tocTab[tocTab.length] = new Array("0.6:5", "", "MotorVehicle", "EARoot/EA6/EA226.htm", "5.png", "E83", "0", "", "Class0","{1257CB53-D176-478b-84D6-2E62B4DEAA1C}");
-tocTab[tocTab.length] = new Array("0.6.1", "1", "Probe Vehicle Data", "EARoot/EA6/EA1/EA232.htm", "4.png", "", "", "{10B86685-0279-4a51-9C36-47995F0C681E}", "Package");

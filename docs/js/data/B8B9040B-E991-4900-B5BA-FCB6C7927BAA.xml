@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.5.1", "1", "Data Stores", "EARoot/EA5/EA1/EA184.htm", "4.png", "", "", "{D425BDAD-9B42-478e-AB38-71D44C11E0FC}", "Package");
+tocTab[tocTab.length] = new Array("0.5.2", "1", "Information Flow Data Diagrams", "EARoot/EA5/EA2/EA192.htm", "4.png", "", "", "{F9802739-9E31-402a-853B-10BB6A12DB32}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3", "1", "Standards", "EARoot/EA5/EA3/EA250.htm", "4.png", "", "", "{0D4D1455-B46F-47ea-8962-7628BCE4EE18}", "Package");

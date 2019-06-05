@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2:1", "", "Environmental Data", "EARoot/EA2/EA26.htm", "175.png", "18", "0", "", "Logical diagram0","{51A8F829-996C-4c85-8D42-6990897428C0}");
-tocTab[tocTab.length] = new Array("0.2:2", "", "CauseCode", "EARoot/EA2/EA29.htm", "5.png", "E221", "0", "", "Class0","{9BA5FD2A-5B9A-4e40-BD36-D622BCD865B6}");
-tocTab[tocTab.length] = new Array("0.2:3", "", "DENM", "EARoot/EA2/EA30.htm", "5.png", "E137", "0", "", "Class0","{7EBA4446-B7DB-49bf-AB19-5EA884E03CC5}");
-tocTab[tocTab.length] = new Array("0.2:4", "", "GeoLocation", "EARoot/EA2/EA31.htm", "5.png", "E136", "0", "", "Class0","{B0E9F51C-B367-415c-87CE-9321467B4A47}");
