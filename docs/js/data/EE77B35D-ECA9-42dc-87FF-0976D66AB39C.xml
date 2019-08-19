@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("0.5.3.1.1", "1", "ETSI 102 894-2", "EARoot/EA5/EA3/EA1/EA1/EA262.htm", "4.png", "", "", "{836A18CD-F49E-4da4-98BB-A3710064A73B}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.1.2", "1", "ETSI 302 637-2", "EARoot/EA5/EA3/EA1/EA2/EA294.htm", "4.png", "", "", "{B5D013A6-6E73-473b-A78B-C6227CE75312}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.1.3", "1", "ETSI 302 637-3", "EARoot/EA5/EA3/EA1/EA3/EA307.htm", "4.png", "", "", "{9E6F7382-BA04-4b7d-82F3-DBCC527F1B8F}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.1.1", "1", "ETSI 102 894-2", "EARoot/EA5/EA3/EA1/EA1/EA263.htm", "4.png", "", "", "{836A18CD-F49E-4da4-98BB-A3710064A73B}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.1.2", "1", "ETSI 302 637-2", "EARoot/EA5/EA3/EA1/EA2/EA295.htm", "4.png", "", "", "{B5D013A6-6E73-473b-A78B-C6227CE75312}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.1.3", "1", "ETSI 302 637-3", "EARoot/EA5/EA3/EA1/EA3/EA308.htm", "4.png", "", "", "{9E6F7382-BA04-4b7d-82F3-DBCC527F1B8F}", "Package");

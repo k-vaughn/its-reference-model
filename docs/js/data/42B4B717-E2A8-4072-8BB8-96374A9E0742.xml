@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.5.3.3:1", "", "BSMcoreData", "EARoot/EA5/EA3/EA3/EA319.htm", "5.png", "E272", "0", "", "Class0","{918A94B0-A348-4e2b-A6A8-6BBB6785718C}");
-tocTab[tocTab.length] = new Array("0.5.3.3.1", "1", "Data", "EARoot/EA5/EA3/EA3/EA1/EA323.htm", "4.png", "", "", "{C0E6AFB8-6225-4abd-B572-8A567793EA27}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.3.2", "1", "Data Diagrams", "EARoot/EA5/EA3/EA3/EA2/EA374.htm", "4.png", "", "", "{4A42AEB0-6C49-486d-AD22-0662E2F57ED9}", "Package");
-tocTab[tocTab.length] = new Array("0.5.3.3.3", "1", "Traceability", "EARoot/EA5/EA3/EA3/EA3/EA385.htm", "4.png", "", "", "{5E465A95-C981-4846-838D-0A2F86BA72BE}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.4:1", "", "BSMcoreData", "EARoot/EA5/EA3/EA4/EA350.htm", "5.png", "E272", "0", "", "Class0","{918A94B0-A348-4e2b-A6A8-6BBB6785718C}");
+tocTab[tocTab.length] = new Array("0.5.3.4.1", "1", "Data", "EARoot/EA5/EA3/EA4/EA1/EA354.htm", "4.png", "", "", "{C0E6AFB8-6225-4abd-B572-8A567793EA27}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.4.2", "1", "Data Diagrams", "EARoot/EA5/EA3/EA4/EA2/EA405.htm", "4.png", "", "", "{4A42AEB0-6C49-486d-AD22-0662E2F57ED9}", "Package");
+tocTab[tocTab.length] = new Array("0.5.3.4.3", "1", "Traceability", "EARoot/EA5/EA3/EA4/EA3/EA416.htm", "4.png", "", "", "{5E465A95-C981-4846-838D-0A2F86BA72BE}", "Package");

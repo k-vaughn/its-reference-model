@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.5.2.3:1", "", "BSM", "EARoot/EA5/EA2/EA3/EA209.htm", "175.png", "57", "0", "", "Logical diagram0","{DAB2B044-C44C-47a6-8F59-8BF9418091A1}");
-tocTab[tocTab.length] = new Array("0.5.2.3:2", "", "BSM-SpeedLocation", "EARoot/EA5/EA2/EA3/EA211.htm", "175.png", "45", "0", "", "Logical diagram0","{13534E09-ECCA-45f7-B144-898C3C24C501}");
-tocTab[tocTab.length] = new Array("0.5.2.3:3", "", "CAM", "EARoot/EA5/EA2/EA3/EA213.htm", "175.png", "62", "0", "", "Logical diagram0","{52FCCB15-1CB4-489e-83B5-BACD946AD4F3}");
-tocTab[tocTab.length] = new Array("0.5.2.3:4", "", "CAM SpeedLocation", "EARoot/EA5/EA2/EA3/EA215.htm", "175.png", "38", "0", "", "Logical diagram0","{02025E27-3534-42b2-942A-22A3CB9A34E0}");
+tocTab[tocTab.length] = new Array("0.5.2.3:1", "", "BSM", "EARoot/EA5/EA2/EA3/EA205.htm", "175.png", "57", "0", "", "Logical diagram0","{DAB2B044-C44C-47a6-8F59-8BF9418091A1}");
+tocTab[tocTab.length] = new Array("0.5.2.3:2", "", "BSM-SpeedLocation", "EARoot/EA5/EA2/EA3/EA207.htm", "175.png", "45", "0", "", "Logical diagram0","{13534E09-ECCA-45f7-B144-898C3C24C501}");
+tocTab[tocTab.length] = new Array("0.5.2.3:3", "", "CAM", "EARoot/EA5/EA2/EA3/EA209.htm", "175.png", "62", "0", "", "Logical diagram0","{52FCCB15-1CB4-489e-83B5-BACD946AD4F3}");
+tocTab[tocTab.length] = new Array("0.5.2.3:4", "", "CAM SpeedLocation", "EARoot/EA5/EA2/EA3/EA211.htm", "175.png", "38", "0", "", "Logical diagram0","{02025E27-3534-42b2-942A-22A3CB9A34E0}");

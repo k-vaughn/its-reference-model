@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.5.3.3.2:1", "", "BSM", "EARoot/EA5/EA3/EA3/EA2/EA366.htm", "175.png", "61", "0", "", "Logical diagram0","{7A998DDC-CDA1-4891-8C1A-5A5DE809B61B}");
-tocTab[tocTab.length] = new Array("0.5.3.3.2:2", "", "SpecialVehicleExtensions", "EARoot/EA5/EA3/EA3/EA2/EA368.htm", "175.png", "60", "0", "", "Logical diagram0","{763529F7-E7C4-42b5-B15A-40670A680130}");
-tocTab[tocTab.length] = new Array("0.5.3.3.2:3", "", "SupplementalVehicleExtensions", "EARoot/EA5/EA3/EA3/EA2/EA370.htm", "175.png", "59", "0", "", "Logical diagram0","{4EE591C7-8C9D-4fda-9912-D62B24524F8F}");
-tocTab[tocTab.length] = new Array("0.5.3.3.2:4", "", "VehicleSafetyExtensions", "EARoot/EA5/EA3/EA3/EA2/EA372.htm", "175.png", "58", "0", "", "Logical diagram0","{AD6DB61A-B47E-471b-94C3-16B778DFDF8E}");
+tocTab[tocTab.length] = new Array("0.5.3.4.2:1", "", "BSM", "EARoot/EA5/EA3/EA4/EA2/EA397.htm", "175.png", "61", "0", "", "Logical diagram0","{7A998DDC-CDA1-4891-8C1A-5A5DE809B61B}");
+tocTab[tocTab.length] = new Array("0.5.3.4.2:2", "", "SpecialVehicleExtensions", "EARoot/EA5/EA3/EA4/EA2/EA399.htm", "175.png", "60", "0", "", "Logical diagram0","{763529F7-E7C4-42b5-B15A-40670A680130}");
+tocTab[tocTab.length] = new Array("0.5.3.4.2:3", "", "SupplementalVehicleExtensions", "EARoot/EA5/EA3/EA4/EA2/EA401.htm", "175.png", "59", "0", "", "Logical diagram0","{4EE591C7-8C9D-4fda-9912-D62B24524F8F}");
+tocTab[tocTab.length] = new Array("0.5.3.4.2:4", "", "VehicleSafetyExtensions", "EARoot/EA5/EA3/EA4/EA2/EA403.htm", "175.png", "58", "0", "", "Logical diagram0","{AD6DB61A-B47E-471b-94C3-16B778DFDF8E}");

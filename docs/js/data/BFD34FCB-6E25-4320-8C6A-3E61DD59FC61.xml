@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("0.3.9:1", "", "Location", "EARoot/EA3/EA9/EA109.htm", "175.png", "17", "0", "", "Logical diagram0","{37A16161-4C1B-400e-964C-5D98B05C5E06}");
-tocTab[tocTab.length] = new Array("0.3.9:2", "", "Elevation", "EARoot/EA3/EA9/EA112.htm", "5.png", "E498", "0", "", "Class0","{1D2651D8-28A6-43a3-B25B-F740E958CDC0}");
-tocTab[tocTab.length] = new Array("0.3.9:3", "", "«enumeration» EllipsoidEnum", "EARoot/EA3/EA9/EA113.htm", "5.png", "E292", "0", "", "Class0","{9800F6EE-2645-41db-9093-862D2503FEA6}");
-tocTab[tocTab.length] = new Array("0.3.9:4", "", "GeoLocation", "EARoot/EA3/EA9/EA114.htm", "5.png", "E121", "0", "", "Class0","{7543FF86-3947-447d-82D3-425CF7853024}");
-tocTab[tocTab.length] = new Array("0.3.9:5", "", "«enumeration» GeoLocationStatusEnum", "EARoot/EA3/EA9/EA115.htm", "5.png", "E293", "0", "", "Class0","{415328C6-98E2-4092-87F7-84BD432479F2}");
-tocTab[tocTab.length] = new Array("0.3.9:6", "", "Location", "EARoot/EA3/EA9/EA116.htm", "5.png", "E120", "0", "", "Class0","{27FB90A9-B371-4a2f-B13B-2324AB073A6C}");
+tocTab[tocTab.length] = new Array("0.3.12:1", "", "Position", "EARoot/EA3/EA12/EA113.htm", "175.png", "24", "0", "", "Logical diagram0","{CC177834-80D8-47c1-A6F7-039223152E33}");
+tocTab[tocTab.length] = new Array("0.3.12:2", "", "Elevation", "EARoot/EA3/EA12/EA116.htm", "5.png", "E498", "0", "", "Class0","{1D2651D8-28A6-43a3-B25B-F740E958CDC0}");
+tocTab[tocTab.length] = new Array("0.3.12:3", "", "«enumeration» EllipsoidEnum", "EARoot/EA3/EA12/EA117.htm", "5.png", "E292", "0", "", "Class0","{9800F6EE-2645-41db-9093-862D2503FEA6}");
+tocTab[tocTab.length] = new Array("0.3.12:4", "", "GeoLocation", "EARoot/EA3/EA12/EA118.htm", "5.png", "E121", "0", "", "Class0","{7543FF86-3947-447d-82D3-425CF7853024}");
+tocTab[tocTab.length] = new Array("0.3.12:5", "", "«enumeration» GeoLocationStatusEnum", "EARoot/EA3/EA12/EA119.htm", "5.png", "E293", "0", "", "Class0","{415328C6-98E2-4092-87F7-84BD432479F2}");
+tocTab[tocTab.length] = new Array("0.3.12:6", "", "Location", "EARoot/EA3/EA12/EA120.htm", "5.png", "E120", "0", "", "Class0","{27FB90A9-B371-4a2f-B13B-2324AB073A6C}");

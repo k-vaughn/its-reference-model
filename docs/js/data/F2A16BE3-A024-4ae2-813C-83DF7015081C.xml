@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:1", "", "DLR1LocationReference", "EARoot/EA5/EA3/EA2/EA1/EA2/EA334.htm", "5.png", "E708", "0", "", "Class0","{0E3490E5-F165-44c0-A891-5E362E26E8EA}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:2", "", "ExtendedTMCLocationReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA335.htm", "5.png", "E712", "0", "", "Class0","{A47F8068-8922-4489-9F3C-FDD89872DECD}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:3", "", "GeographicLocationReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA336.htm", "5.png", "E713", "0", "", "Class0","{EEFA156E-DCCE-40f6-9E24-DE0F15B4C8A1}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:4", "", "KoreanNodeLinkLocationRefernceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA337.htm", "5.png", "E710", "0", "", "Class0","{E8A0FEC6-415A-42cc-A6E7-D48D0AE0769B}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:5", "", "LocationReferencingContainer", "EARoot/EA5/EA3/EA2/EA1/EA2/EA338.htm", "5.png", "E706", "0", "", "Class0","{11808716-8EAF-406a-8C37-7776519B08B0}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:6", "", "Method", "EARoot/EA5/EA3/EA2/EA1/EA2/EA339.htm", "5.png", "E707", "0", "", "Class0","{3233173B-6AF4-4276-BCCB-7D8C4FB2035E}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:7", "", "OpenLRLocationReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA340.htm", "5.png", "E715", "0", "", "Class0","{0D8CB4A3-495E-4efa-BAB8-2FAFF1C4AA84}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:8", "", "TMCLocationReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA341.htm", "5.png", "E709", "0", "", "Class0","{ECD81535-6C68-4b68-8C48-D3313255EA61}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:9", "", "UniversalLocationReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA342.htm", "5.png", "E714", "0", "", "Class0","{FE386029-837C-4eb8-8796-403EB27A3639}");
+tocTab[tocTab.length] = new Array("0.5.3.2.1.2:10", "", "VICSLinkReferenceLink", "EARoot/EA5/EA3/EA2/EA1/EA2/EA343.htm", "5.png", "E711", "0", "", "Class0","{DFB59A19-1998-44d8-810C-360A44937FF8}");
